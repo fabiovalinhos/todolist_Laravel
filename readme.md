@@ -4,7 +4,7 @@
 Classic todo list for training CRUD.  
 Just training through Laravel.  
 
-Demo site hosted in Heroku click [here](https://basicwebsite.herokuapp.com/)
+Demo site hosted in Heroku click [here](https://todolistlaravel.herokuapp.com/)
 
 For frontend  
 - Bootstrap  
