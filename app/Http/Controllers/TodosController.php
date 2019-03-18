@@ -88,7 +88,6 @@ class TodosController extends Controller
         $todo = Todo::find($id);
 
         // Update Todo
-        $todo = new Todo;
         $todo->text = $request->input('text');
         $todo->body = $request->input('body');
         $todo->due = $request->input('due');
